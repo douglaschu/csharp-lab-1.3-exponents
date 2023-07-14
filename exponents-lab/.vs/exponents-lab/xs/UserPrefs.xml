@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4ED254FF-C3FE-43E3-AA4D-331C35C6CAE7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../day2-methods/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="30" />
+      <File FileName="../../day2-methods/Program.cs" Line="209" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exponents-lab" expanded="True">
+            <Node name="exponents-lab">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.exponents-lab PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/bin/Debug/net6.0/exponents-lab
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/bin/Debug/net6.0/exponents-lab.deps.json
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/bin/Debug/net6.0/exponents-lab.runtimeconfig.json
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/bin/Debug/net6.0/exponents-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/bin/Debug/net6.0/exponents-lab.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/exponents-lab.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/exponents-lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/exponents-lab.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/exponents-lab.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/exponents-lab.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/exponents-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/refint/exponents-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/exponents-lab.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/exponents-lab.genruntimeconfig.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/Debug/net6.0/ref/exponents-lab.dll
