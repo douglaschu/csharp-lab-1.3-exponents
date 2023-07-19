@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7jUCQFyoOQJ79Q22PpzTv+eiNBy/XxWtTnsLObht3wuto3gMhdvpI4GZSlIhzKZGQ60d8dvEidDOTeiEShYmoQ==",
+  "dgSpecHash": "obtDfGZovlzhXnn9zu57geTtNEvYvVmHKqdIHk9dIyZ1BtG95pmdv/KRmyD/oHTP+CQHLiHnzt+V1+xGeID7Cg==",
   "success": true,
-  "projectFilePath": "/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/exponents-lab.csproj",
+  "projectFilePath": "/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-1.3-exponents/exponents-lab/exponents-lab.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

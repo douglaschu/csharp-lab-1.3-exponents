@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/exponents-lab.csproj",
+      "projectUniqueName": "/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-1.3-exponents/exponents-lab/exponents-lab.csproj",
       "projectName": "exponents-lab",
-      "projectPath": "/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/exponents-lab.csproj",
+      "projectPath": "/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-1.3-exponents/exponents-lab/exponents-lab.csproj",
       "packagesPath": "/Users/doug/.nuget/packages/",
-      "outputPath": "/Users/doug/Documents/Coding/grand-circus/back-end/day-3-methods/exponents-lab/exponents-lab/obj/",
+      "outputPath": "/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-1.3-exponents/exponents-lab/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/doug/.nuget/NuGet/NuGet.Config"

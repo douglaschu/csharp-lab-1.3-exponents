@@ -15,9 +15,10 @@ while (runProgram)
             //only make methods for squares and cubes
             //run loop until 
 
-            Console.WriteLine($"x^1\tSquared\tCubed");
+            //Console.WriteLine($"x^1\tSquared\tCubed");
+            Console.WriteLine(String.Format("{0,5}{1,15}{2,15}", "1st Power", "Square", "Cube"));
 
-             
+
             for (int i = 1; i <= input; i++)
             {
                 //right align
@@ -56,10 +57,6 @@ while (runProgram)
             Console.WriteLine("Invalid input.");
         }
     }
-
-  
-
-    
 
 }
 static int Square(int x)
